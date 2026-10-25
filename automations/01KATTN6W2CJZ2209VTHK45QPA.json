@@ -1,0 +1,66 @@
+{
+  "version": "2",
+  "flowTitle": "Cost Comparison Analyzer",
+  "trigger": {
+    "valid": false,
+    "displayName": "When Cost Analysis Updated",
+    "type": "PIECE_TRIGGER",
+    "settings": {
+      "pieceName": "@taskade/automade-internalpiece-taskade",
+      "pieceVersion": "BLANK",
+      "triggerName": "task.custom_attribute_updated",
+      "input": {
+        "fieldId": "@cost1",
+        "projectId": {
+          "type": "flow-template-variable-input-type",
+          "id": "yU6YnSwNGefJYKr9"
+        }
+      }
+    }
+  },
+  "actions": [
+    {
+      "name": "7e8f9012-3456-7890-1234-567890efghij",
+      "valid": true,
+      "displayName": "Calculate ROI & Benefits",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-openai",
+        "pieceVersion": "BLANK",
+        "actionName": "ai.generate",
+        "input": {
+          "input": "Security System: {{ trigger[\"nodeText\"] }}\n\nCost Data: {{ trigger[\"nodeText\"] }}\n\nProvide:\n1. ROI calculation and payback period\n2. Total Cost of Ownership (TCO) over 5 years\n3. Cost savings breakdown\n4. Comparison to industry benchmarks in South Africa\n5. Financial recommendation (Invest/Defer/Alternative)\n\nFormat as bullet points for presentation slides.",
+          "prompt": "You are a financial analyst specializing in security systems ROI. Analyze the cost data and provide clear financial insights for presentation."
+        }
+      }
+    },
+    {
+      "name": "8f901234-5678-9012-3456-7890123fghij",
+      "valid": false,
+      "displayName": "Create ROI Analysis Task",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "BLANK",
+        "actionName": "task.create",
+        "input": {
+          "blockId": "{{ trigger[\"nodeId\"] }}",
+          "content": "💰 ROI Analysis: {{ 7e8f9012-3456-7890-1234-567890efghij[\"result\"] }}",
+          "position": "beforeend",
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "yU6YnSwNGefJYKr9"
+          }
+        }
+      }
+    }
+  ],
+  "variables": {
+    "yU6YnSwNGefJYKr9": {
+      "id": "yU6YnSwNGefJYKr9",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    }
+  }
+}

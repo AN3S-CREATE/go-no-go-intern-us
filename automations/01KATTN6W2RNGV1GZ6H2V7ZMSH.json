@@ -1,0 +1,118 @@
+{
+  "version": "2",
+  "flowTitle": "Daily Summary at 09:00 SAST",
+  "trigger": {
+    "valid": false,
+    "displayName": "Every day at 09:00 SAST",
+    "type": "PIECE_TRIGGER",
+    "settings": {
+      "pieceName": "@taskade/automade-internalpiece-schedule",
+      "pieceVersion": "BLANK",
+      "triggerName": "schedule.daily",
+      "input": {}
+    }
+  },
+  "actions": [
+    {
+      "name": "e1f2a3b4-c5d6-7890-abcd-ef1234567891",
+      "valid": false,
+      "displayName": "Find yesterday's swipes",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "BLANK",
+        "actionName": "tasks.find",
+        "input": {
+          "ruleset": "",
+          "rowsToReturn": "all_matching_rows",
+          "noTasksFoundBehavior": "continue"
+        }
+      }
+    },
+    {
+      "name": "e2f3a4b5-d6e7-8901-bcde-f12345678902",
+      "valid": true,
+      "displayName": "Generate executive summary",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-openai",
+        "pieceVersion": "BLANK",
+        "actionName": "ai.generate",
+        "input": {
+          "input": "{{ e1f2a3b4-c5d6-7890-abcd-ef1234567891 }}",
+          "prompt": "Generate a concise executive summary of innovation swipes from yesterday. Include: total swipes, top 3 innovations by interest, key trends, and recommended actions for management review."
+        }
+      }
+    },
+    {
+      "name": "e1f2a3b4-c5d6-7890-abcd-ef1234567891",
+      "valid": false,
+      "displayName": "Find yesterday's swipes",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "BLANK",
+        "actionName": "tasks.find",
+        "input": {
+          "ruleset": "",
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "yU6YnSwNGefJYKr9"
+          },
+          "rowsToReturn": "all_matching_rows",
+          "noTasksFoundBehavior": "continue"
+        }
+      }
+    },
+    {
+      "name": "e2f3a4b5-d6e7-8901-bcde-f12345678902",
+      "valid": true,
+      "displayName": "Generate executive summary",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-openai",
+        "pieceVersion": "BLANK",
+        "actionName": "ai.generate",
+        "input": {
+          "input": "{{ e1f2a3b4-c5d6-7890-abcd-ef1234567891 }}",
+          "prompt": "Generate a concise executive summary of innovation swipes from yesterday. Include: total swipes, top 3 innovations by interest, key trends, and recommended actions for management review."
+        }
+      }
+    },
+    {
+      "name": "e3f4a5b6-e7f8-9012-cdef-123456789013",
+      "valid": false,
+      "displayName": "Create summary record",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "BLANK",
+        "actionName": "task.create",
+        "input": {
+          "fields": "",
+          "content": "Daily Innovation Summary",
+          "dueDate": "",
+          "position": "beforeend",
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "oUcFwyMy5Uz8jvpQ"
+          }
+        }
+      }
+    }
+  ],
+  "variables": {
+    "yU6YnSwNGefJYKr9": {
+      "id": "yU6YnSwNGefJYKr9",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    },
+    "oUcFwyMy5Uz8jvpQ": {
+      "id": "oUcFwyMy5Uz8jvpQ",
+      "rank": "k",
+      "type": "string",
+      "format": "taskade-project-id"
+    }
+  }
+}

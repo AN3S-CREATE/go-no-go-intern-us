@@ -1,0 +1,55 @@
+{
+  "version": "2",
+  "flowTitle": "Presentation Compiler",
+  "trigger": {
+    "valid": true,
+    "displayName": "Compile Presentation",
+    "type": "MANUAL",
+    "settings": {
+      "inputUiInfo": {},
+      "paramsSchema": {
+        "type": "object",
+        "properties": {
+          "systemName": {
+            "type": "string",
+            "description": "Input for systemName"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "actions": [
+    {
+      "name": "a123456b-7890-1234-5678-901234567bcd",
+      "valid": true,
+      "displayName": "Compile Presentation Slides",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-openai",
+        "pieceVersion": "BLANK",
+        "actionName": "ai.generate",
+        "input": {
+          "input": "Security System: {{ trigger[\"systemName\"] }}\n\nCreate a comprehensive presentation with these slides:\n\nSlide 1: Title & Overview\nSlide 2: How It Works (technical explanation)\nSlide 3: Advantages (bullet points)\nSlide 4: Disadvantages & Mitigation (bullet points)\nSlide 5: Cost Analysis & ROI\nSlide 6: Innovation for South Africa\nSlide 7: Implementation Roadmap\nSlide 8: Recommendations\n\nFor each slide provide:\n- Slide title\n- Key points (3-5 bullets)\n- Speaker notes\n- Visual suggestions\n\nFormat for easy copy-paste into PowerPoint.",
+          "prompt": "You are a professional presentation designer. Create a complete PowerPoint-style presentation outline with detailed slide content."
+        }
+      }
+    },
+    {
+      "name": "b234567c-8901-2345-6789-012345678cde",
+      "valid": true,
+      "displayName": "Create Presentation Project",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "BLANK",
+        "actionName": "project.create",
+        "input": {
+          "title": "Presentation: {{ trigger[\"systemName\"] }}",
+          "content": "{{ a123456b-7890-1234-5678-901234567bcd[\"result\"] }}",
+          "defaultView": "list"
+        }
+      }
+    }
+  ]
+}

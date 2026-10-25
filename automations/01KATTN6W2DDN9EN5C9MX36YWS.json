@@ -1,0 +1,73 @@
+{
+  "version": "2",
+  "flowTitle": "Image Prompt Generator",
+  "trigger": {
+    "valid": false,
+    "displayName": "When Image Prompt Field Updated",
+    "type": "PIECE_TRIGGER",
+    "settings": {
+      "pieceName": "@taskade/automade-internalpiece-taskade",
+      "pieceVersion": "BLANK",
+      "triggerName": "task.custom_attribute_updated",
+      "input": {
+        "fieldId": "@inno1",
+        "projectId": {
+          "type": "flow-template-variable-input-type",
+          "id": "yU6YnSwNGefJYKr9"
+        }
+      }
+    }
+  },
+  "actions": [
+    {
+      "name": "5c6d7e8f-9012-3456-7890-123456cdefgh",
+      "valid": true,
+      "displayName": "Generate Enhanced Image Prompt",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-openai",
+        "pieceVersion": "BLANK",
+        "actionName": "ai.generate",
+        "input": {
+          "input": "System: {{ trigger[\"nodeText\"] }}\n\nInnovation Details: {{ trigger[\"nodeText\"] }}\n\nCreate a detailed image prompt that includes:\n- Photorealistic South African setting (modern complex/residential area)\n- Professional security equipment and technology\n- Diverse South African people interacting with the system\n- Modern, clean aesthetic\n- Proper lighting and composition\n- Technical details visible but not overwhelming\n- Professional presentation quality\n\nFormat: Single paragraph, 150-200 words, highly detailed and specific.",
+          "prompt": "You are a professional presentation designer specializing in security systems. Create a detailed, photorealistic image generation prompt for DALL-E or Midjourney."
+        }
+      }
+    },
+    {
+      "name": "6d7e8f90-1234-5678-9012-34567defghij",
+      "valid": false,
+      "displayName": "Update Image Prompt Field",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "BLANK",
+        "actionName": "updateCustomFields",
+        "input": {
+          "fields": {
+            "@imag1": {
+              "data": {
+                "value": "{{ 5c6d7e8f-9012-3456-7890-123456cdefgh[\"result\"] }}"
+              },
+              "rank": "0",
+              "fieldId": "@imag1"
+            }
+          },
+          "nodeId": "{{ trigger[\"nodeId\"] }}",
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "yU6YnSwNGefJYKr9"
+          }
+        }
+      }
+    }
+  ],
+  "variables": {
+    "yU6YnSwNGefJYKr9": {
+      "id": "yU6YnSwNGefJYKr9",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    }
+  }
+}

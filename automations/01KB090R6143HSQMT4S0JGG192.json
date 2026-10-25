@@ -1,0 +1,156 @@
+{
+  "version": "2",
+  "flowTitle": "Critical Task Completion Notifier",
+  "trigger": {
+    "valid": false,
+    "displayName": "When Critical Task Completed",
+    "type": "PIECE_TRIGGER",
+    "settings": {
+      "pieceName": "@taskade/automade-internalpiece-taskade",
+      "pieceVersion": "1.0.0",
+      "triggerName": "task.completed",
+      "input": {
+        "projectId": {
+          "type": "flow-template-variable-input-type",
+          "id": "ByVH7fUSVyYdvPtJ"
+        }
+      }
+    }
+  },
+  "actions": [
+    {
+      "name": "a1b2c3d4-5678-90ab-cdef-000000000001",
+      "valid": true,
+      "displayName": "Check if Task is Critical Priority",
+      "type": "BRANCH",
+      "settings": {},
+      "paths": [
+        {
+          "name": "b1c2d3e4-5678-90ab-cdef-000000000001",
+          "valid": true,
+          "displayName": "If Critical Priority",
+          "type": "BRANCH_PATH",
+          "settings": {
+            "ruleset": {
+              "type": "CUSTOM",
+              "input": {
+                "type": "or",
+                "value": [
+                  {
+                    "type": "and",
+                    "value": [
+                      {
+                        "condition": "text_matches",
+                        "id": "a2958da2-7584-493b-9f5a-24d8cc92ec43",
+                        "data": "{{ trigger[\"ByVH7fUSVyYdvPtJ/fields/@prio1\"] }}",
+                        "comparator": "Critical"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          "actions": [
+            {
+              "name": "c1d2e3f4-5678-90ab-cdef-000000000001",
+              "valid": true,
+              "displayName": "Notify via AI Agent",
+              "type": "PIECE",
+              "settings": {
+                "pieceName": "@taskade/automade-internalpiece-openai",
+                "pieceVersion": "1.0.0",
+                "actionName": "ai.generate",
+                "input": {
+                  "input": "Task: {{ trigger[\"nodeText\"] }}\nCompleted by: {{ trigger[\"completedBy\"] }}\nCompleted at: {{ trigger[\"completedAt\"] }}\nProject: {{ trigger[\"projectTitle\"] }}\nLink: {{ trigger[\"projectLink\"] }}",
+                  "prompt": "Generate a professional notification message for a completed critical task"
+                }
+              }
+            },
+            {
+              "name": "d1e2f3a4-5678-90ab-cdef-000000000001",
+              "valid": false,
+              "displayName": "Log Completion to Management Responses",
+              "type": "PIECE",
+              "settings": {
+                "pieceName": "@taskade/automade-internalpiece-taskade",
+                "pieceVersion": "1.0.0",
+                "actionName": "task.create",
+                "input": {
+                  "fields": {
+                    "@act01": {
+                      "data": {
+                        "value": "opt-reviewed"
+                      },
+                      "rank": "4",
+                      "fieldId": "@act01"
+                    },
+                    "@cnt01": {
+                      "data": {
+                        "value": "1"
+                      },
+                      "rank": "1",
+                      "fieldId": "@cnt01"
+                    },
+                    "@date1": {
+                      "data": {
+                        "value": "{{ trigger[\"completedAt\"] }}"
+                      },
+                      "rank": "0",
+                      "fieldId": "@date1"
+                    },
+                    "@resp1": {
+                      "data": {
+                        "value": "{{ c1d2e3f4-5678-90ab-cdef-000000000001[\"result\"] }}"
+                      },
+                      "rank": "3",
+                      "fieldId": "@resp1"
+                    },
+                    "@summ1": {
+                      "data": {
+                        "value": "Critical task '{{ trigger[\"nodeText\"] }}' completed by {{ trigger[\"completedBy\"] }} in {{ trigger[\"projectTitle\"] }}"
+                      },
+                      "rank": "2",
+                      "fieldId": "@summ1"
+                    }
+                  },
+                  "content": "✅ CRITICAL TASK COMPLETED\n\n{{ trigger[\"nodeText\"] }}\n\nCompleted by: {{ trigger[\"completedBy\"] }}\nCompleted at: {{ trigger[\"completedAt\"] }}\n\n🔗 View: {{ trigger[\"projectLink\"] }}",
+                  "projectId": {
+                    "type": "flow-template-variable-input-type",
+                    "id": "oUcFwyMy5Uz8jvpQ"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "e1f2a3b4-5678-90ab-cdef-000000000001",
+          "valid": true,
+          "displayName": "Otherwise Skip",
+          "type": "BRANCH_PATH",
+          "settings": {
+            "ruleset": {
+              "type": "FALLBACK"
+            }
+          },
+          "actions": []
+        }
+      ]
+    }
+  ],
+  "variables": {
+    "ByVH7fUSVyYdvPtJ": {
+      "id": "ByVH7fUSVyYdvPtJ",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    },
+    "oUcFwyMy5Uz8jvpQ": {
+      "id": "oUcFwyMy5Uz8jvpQ",
+      "rank": "k",
+      "type": "string",
+      "format": "taskade-project-id"
+    }
+  }
+}

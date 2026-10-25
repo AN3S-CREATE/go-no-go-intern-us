@@ -1,0 +1,6554 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+        "text": {
+          "ops": [
+            {
+              "insert": "Intern Us Innovation Votes"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "13aaae81-1a3d-47ed-a546-1f419e04a90f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-powered smart matching"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-powered smart matching",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:40:09",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "71932ce3-85c9-4ac3-8165-56cb203cf3a4",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Personalized career guidance"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Personalized career guidance",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:40:14",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "80342918-b7bc-4a69-b52b-7a7af640574f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Adaptive learning engines"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Adaptive learning engines",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:40:28",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "45f7b28c-db97-481f-9d20-5186bd553ee8",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI CV builders & interview simulators"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI CV builders & interview simulators",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:40:32",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "50629667-cae0-4eb6-b8b9-e4ba2fdefcfb",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Skills assessments & gap analysis"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Skills assessments & gap analysis",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:40:35",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ae8a1b53-06ab-4eab-8081-061a6b98c98f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Labor market forecasting"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Labor market forecasting",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:40:43",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "2b01ef41-a8f8-437f-87ac-f75627826743",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Micro-credentialing & digital badges"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Micro-credentialing & digital badges",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:40:48",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "bce0f556-d672-49c1-b782-3dc8557cd59a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-driven content delivery"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-driven content delivery",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:40:51",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "789ec57f-dd11-49e2-be48-65d648359046",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Gamified engagement"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Gamified engagement",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:40:55",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a78327e7-1453-4860-9c68-5e5e6521f514",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Bias mitigation & explainable AI"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Bias mitigation & explainable AI",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:40:58",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ecb0556d-6752-40e3-a899-dbd06a1339fc",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Automated compliance & reporting"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Automated compliance & reporting",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:41:01",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a9bcc2de-44fb-4421-a96a-56bd4225c665",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-powered monitoring & evaluation"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-powered monitoring & evaluation",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:41:03",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ba282730-fdfb-425e-bc10-08342eeebbf1",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-driven onboarding & guidance"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-driven onboarding & guidance",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:41:12",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "44a7b8ee-4c35-4192-905d-9a76f74f168c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-powered peer matching"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-powered peer matching",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:41:17",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "818065d2-9b61-42cc-95c8-7a0fbc42e890",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-powered stipend workflows"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-powered stipend workflows",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:41:31",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "47d053ca-faf4-4ca1-b04a-796b8a437a1b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-powered accessibility features"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-powered accessibility features",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:41:33",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "4cf80c05-d4fa-497b-a66a-535e87b4d8b9",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Fraud detection & background checks"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Fraud detection & background checks",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:41:35",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "456058a1-79ec-443a-a7aa-7ec5d037959a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-driven feedback & improvement"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-driven feedback & improvement",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:41:42",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "3b009e52-c3da-4991-8749-868aba324624",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-powered security management"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-powered security management",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:41:49",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "df9110d2-42ef-416a-88fb-0476295debf3",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Labor market intelligence"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Labor market intelligence",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:41:55",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a9f681a0-8af4-40c7-9c17-89237da92ec9",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-powered content moderation"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-powered content moderation",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:42:24",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "223f2065-ba87-4901-b4f5-a3b2291bc77d",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Multi-language support"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Multi-language support",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:42:35",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "bfc87b2e-2a08-42b5-b97b-c800e10aa676",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-powered impact measurement"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-powered impact measurement",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:42:38",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f3b36ca2-90f1-46b8-8232-62122c5b382c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Mobile-first, offline-ready design"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Mobile-first, offline-ready design",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:42:52",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "85f72782-c2cb-4307-bb63-ae8b9bd820f9",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Accessibility & inclusive design"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Accessibility & inclusive design",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:42:56",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "9fbeba33-5c0f-446b-b10b-d7aed0c7ad6e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Cloud-based scalable infrastructure"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Cloud-based scalable infrastructure",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:42:59",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "fe9e52ed-2a42-4af0-a30f-ff859b973aae",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Seamless onboarding & registration"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Seamless onboarding & registration",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:43:02",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "25925076-9971-4809-8132-de48d60ff99b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Event calendars & notifications"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Event calendars & notifications",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:43:06",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "4660ab0c-90f2-4e41-8344-a8c0e59aacd1",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Discussion forums & networks"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Discussion forums & networks",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:43:08",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "649e83df-d550-46af-bc55-c37953da6a4b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Multiple mentorship frameworks"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Multiple mentorship frameworks",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:43:10",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "275cab31-92c0-4384-8b83-82d3c55f88ce",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Internship & placement management"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Internship & placement management",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:43:14",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "edbc450a-58a8-4944-8eeb-183857af9430",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Modular course catalogs"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Modular course catalogs",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:43:18",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "74d25972-52e8-4b0f-99e7-e96bf6af6bb3",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Gamification & engagement"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Gamification & engagement",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:43:20",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "5f523759-1c3c-4924-ae49-b48cb10139b3",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Government & national integrations"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Government & national integrations",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:43:21",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "9b0fa451-83c7-44ba-853b-984a23e25174",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Impact dashboards"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Impact dashboards",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:43:24",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ad209e1b-40ee-4ace-a97a-823e69efb9d9",
+            "text": {
+              "ops": [
+                {
+                  "insert": "System integrations"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "System integrations",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:43:27",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ac37fb97-2fe4-40f8-b421-eff5994bfc9a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Government data API integration"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Government data API integration",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:43:28",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1b2b21ee-6d45-4737-ac8a-f825ecc805ec",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Local content & cultural relevance"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Local content & cultural relevance",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:43:30",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "9186b340-b785-4499-ae80-b5a1ca7bb5a0",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Offline learning modules"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Offline learning modules",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:43:32",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "4381e913-2f60-40d9-814e-2ae4fb3572e4",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Adaptive content delivery"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Adaptive content delivery",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:43:35",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "8bca90e4-0f39-437d-94d3-bd7f1f9a7d0a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Digital literacy support"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Digital literacy support",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:43:40",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a70b74aa-0275-4251-8d06-819d5eb3e0f2",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Feedback & continuous improvement"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Feedback & continuous improvement",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:43:43",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "394a06b2-05d1-48ac-98f5-683ed650a82f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Secure records management"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Secure records management",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:43:45",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d7cd3a4a-c1f9-4ed0-97aa-a2aa41cee04c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Application tracker dashboard"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Application tracker dashboard",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:43:49",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "fdaf8d57-ae52-4c30-b434-8070c6bcab7c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Downloadable resource library"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Downloadable resource library",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:43:52",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "80ce5032-6258-4495-8823-f950cffc6fac",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Event calendar"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Event calendar",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:43:55",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "6f36c0b2-e372-40e3-9535-de9e4b090df7",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Template library"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Template library",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:43:57",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "14454666-637c-4e1d-a97e-8379b11b8a16",
+            "text": {
+              "ops": [
+                {
+                  "insert": "FAQ & help center"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "FAQ & help center",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:44:01",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "2a1cd52f-2f75-434e-b76f-e73a00d952a7",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI Chatbots & Virtual Companions"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI Chatbots & Virtual Companions",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:44:10",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1ab8acac-721f-4121-beff-7d611a86eae6",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI Photo & Avatar Generators"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI Photo & Avatar Generators",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:44:19",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "3bb4d5a3-cd52-4135-95b5-67f4b6b8e5bf",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI Image & Video Generators"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI Image & Video Generators",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:44:22",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d1f524ce-1be8-48f1-9d2c-cf98f93ff031",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI Meme Generator Booth"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI Meme Generator Booth",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:44:28",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f82963c3-3178-438e-82bd-aa137dc2fa63",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily AI Hype Message"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Daily AI Hype Message",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:44:33",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1b674ca4-be43-4b28-bac1-22f97f73bd49",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Gamified Social Clout Meter"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Gamified Social Clout Meter",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:44:37",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ef9b132a-8285-4685-832e-9fe0f1742a82",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Internship Adventures Story Generator"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Internship Adventures Story Generator",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:44:48",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "fffa90b1-23c0-4dce-bd17-ae0a8e39e61f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI Mood Board Creator"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI Mood Board Creator",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:44:51",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b765373e-bd98-4164-ad29-f811a56aac28",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI Icebreaker Bot"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI Icebreaker Bot",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:44:54",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e31483e1-4c5c-418b-b620-5cee4d4edd62",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-Powered Learning Platforms"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-Powered Learning Platforms",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:45:01",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "14544eb2-018e-4f22-adfc-f8c13647e808",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Adaptive Learning Engines"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Adaptive Learning Engines",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:45:25",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "85ba6a6d-2840-4d56-820c-b791c25cb763",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-Driven Skills Assessments"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-Driven Skills Assessments",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:45:28",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "06ef6a3a-f8f3-4d7e-9860-ca481a06b47f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-Powered Accessibility Features"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-Powered Accessibility Features",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:45:32",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c18cf507-373d-4564-8067-4b57cc426a85",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-Driven Peer Squad Formation"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-Driven Peer Squad Formation",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-no"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:45:35",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "39760832-dc9a-4595-babc-fb0b83c97101",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-Powered Privacy Management"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-Powered Privacy Management",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:45:38",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d427716f-d9bb-4a37-b718-bf8094e95745",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-Powered Monitoring & Evaluation"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-Powered Monitoring & Evaluation",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:45:40",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "3b280784-dba8-4e10-a79a-63dc1a5eb7d6",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Gamified Engagement"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Gamified Engagement",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:45:44",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "38ee8c0d-25ab-41c2-aba7-456adb397154",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Game-Based Assessments"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Game-Based Assessments",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:45:48",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a6509a0a-9734-4131-868b-88031b35fed8",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Learn-to-Earn Rewards Marketplace"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Learn-to-Earn Rewards Marketplace",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:45:50",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "4797b34b-b828-4bfb-ac36-9e3df82b5e2f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Video Elevator Pitch Submission"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Video Elevator Pitch Submission",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-no"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:46:06",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "97937f20-f18d-418e-a6a2-b112ff0daa0d",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-Powered Flash Mentoring"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-Powered Flash Mentoring",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:46:10",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "75f68fa0-181b-47ac-9d8d-a17a35f4cc58",
+            "text": {
+              "ops": [
+                {
+                  "insert": "WhatsApp-First Engagement"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "WhatsApp-First Engagement",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:46:13",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "618716cf-8846-48b7-81a1-4fde826dc44e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Alumni & Industry Networks"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Alumni & Industry Networks",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:46:17",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "2d895740-fe77-48cd-b896-a309cc6c8768",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Gamified Recommendations"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Gamified Recommendations",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:46:19",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "Dayyaan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "038070e4-f67d-45b1-b57e-abae80d26fbf",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-powered smart matching"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-powered smart matching",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:51:43",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b65f206d-30ae-45da-acb2-2b7c5caa4723",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Personalized career guidance"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Personalized career guidance",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:51:56",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "21cb2899-0b8e-4e38-b82f-a5e6060c00cd",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Adaptive learning engines"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Adaptive learning engines",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:52:02",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f3729bd7-b239-4bcb-96f6-6f8101423dbc",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI CV builders & interview simulators"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI CV builders & interview simulators",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:52:07",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "95b6201a-f1f3-4f5e-a948-f8207a62c5f9",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Skills assessments & gap analysis"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Skills assessments & gap analysis",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:52:13",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "2ca31a5d-9ea3-494a-adad-c636eeb3bceb",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Labor market forecasting"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Labor market forecasting",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:52:22",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f113f2b4-bf6d-4874-bb6d-9abc09e3ce71",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Micro-credentialing & digital badges"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Micro-credentialing & digital badges",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:52:36",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "438a36c8-a204-48a7-ab83-94de6900ea91",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-driven content delivery"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-driven content delivery",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:52:42",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "6925aee5-ffc7-4183-b9e2-3fca9935fd52",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Gamified engagement"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Gamified engagement",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:52:59",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e0122fd6-4943-431f-bdaf-af425853cd35",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Bias mitigation & explainable AI"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Bias mitigation & explainable AI",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:53:16",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "bac47624-ab8b-4699-9404-79a44dedf64b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Automated compliance & reporting"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Automated compliance & reporting",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:53:21",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "fbdad2ad-0cb8-42c0-b68a-31ebfcbf8a1b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-powered monitoring & evaluation"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-powered monitoring & evaluation",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:53:26",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "0b79ccd9-6016-4c54-a9bd-4b550af49a88",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-driven onboarding & guidance"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-driven onboarding & guidance",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:53:30",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "14d2dcba-a389-4bd5-b474-146d78a16e3f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-powered peer matching"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-powered peer matching",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:53:35",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c5ec812e-0818-4f37-b13f-5db3a3a459b6",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Alumni & industry network recommendations"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Alumni & industry network recommendations",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:53:48",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "106cbace-15ba-4e40-b3ec-cd2c52d2ca83",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-powered stipend workflows"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-powered stipend workflows",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:53:57",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "0babc430-9f20-4a72-b688-e3f38e39ef0c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Fraud detection & background checks"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Fraud detection & background checks",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:54:23",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e3a63bcb-d917-4466-adeb-61a91dc529d7",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-driven feedback & improvement"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-driven feedback & improvement",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:54:31",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "bfd914f9-77f6-44c9-bcc2-59f75433131e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-powered security management"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-powered security management",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:54:39",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ce07b151-ace9-4f34-bc27-0bbf4bbf2a41",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Labor market intelligence"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Labor market intelligence",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:54:43",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "bae00af1-6006-4292-8809-3c457f526cbe",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-powered content moderation"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-powered content moderation",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:54:48",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ea9f73de-e05b-4de5-912a-013ec45eb82e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Multi-language support"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Multi-language support",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:54:50",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "7e27f3d1-315d-43a1-834f-5cb3770c483c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-powered impact measurement"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-powered impact measurement",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:54:54",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d229417f-f18e-47c7-aeb6-d4a14abfe421",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Public-private partnership analytics"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Public-private partnership analytics",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-ai"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:54:56",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e5710e35-6a45-4ecb-a141-407ff579c41a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Mobile-first, offline-ready design"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Mobile-first, offline-ready design",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:55:13",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "86def53b-5631-47f7-b8d4-af54bc693805",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Accessibility & inclusive design"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Accessibility & inclusive design",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:55:17",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f9925ce4-901d-444e-a735-ef1127d37bdb",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Cloud-based scalable infrastructure"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Cloud-based scalable infrastructure",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:55:19",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "cf896994-678e-491c-a887-27105a55fd19",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Seamless onboarding & registration"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Seamless onboarding & registration",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:55:22",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ec76ae34-3fcf-41cc-818e-8e6a1c74aafb",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Event calendars & notifications"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Event calendars & notifications",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:55:24",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c3ffe00d-2789-4c8d-888a-da05684b76b5",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Discussion forums & networks"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Discussion forums & networks",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:55:26",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "2a202acf-cb30-4c20-92fb-66965cd49c50",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Multiple mentorship frameworks"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Multiple mentorship frameworks",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:55:30",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1541f37c-2f50-4ff4-80f0-ae1d37874408",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Internship & placement management"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Internship & placement management",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:55:34",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "5f322fd4-3147-4237-a9f9-7b4794a7078a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Modular course catalogs"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Modular course catalogs",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:55:37",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "0cff274b-5df5-492f-b5dc-d92e8f40b4d2",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Gamification & engagement"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Gamification & engagement",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:55:41",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "450592f5-007d-4cb9-9549-3270ae2c9c1f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Government & national integrations"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Government & national integrations",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:55:44",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "656a8b8f-7d4e-4483-b94c-746979daa7ff",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Impact dashboards"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Impact dashboards",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:55:46",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "6a6a9d1a-0ccb-4a28-a3d5-8d986f949ec0",
+            "text": {
+              "ops": [
+                {
+                  "insert": "System integrations"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "System integrations",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:55:50",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "749c96da-3733-449b-ac25-5a8631c72128",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Government data API integration"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Government data API integration",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:55:52",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "5c548a52-9125-4edc-a65b-eae2bb964607",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Local content & cultural relevance"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Local content & cultural relevance",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:55:54",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "98d9a1e2-0461-4d73-893c-86b62dde173e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Offline learning modules"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Offline learning modules",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:55:55",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "cc0f4e4c-a989-4b6b-9671-861662cc98bb",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Adaptive content delivery"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Adaptive content delivery",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:55:58",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c820618a-fa20-4c19-8b73-23fc53fb8359",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Digital literacy support"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Digital literacy support",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:56:18",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "0dc0224e-cf12-4468-a892-da9bf8ccad07",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Feedback & continuous improvement"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Feedback & continuous improvement",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:56:20",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c39b5b76-b1b1-4b48-aa29-3119bf658418",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Secure records management"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Secure records management",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:56:25",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "8da8a1a6-a86d-45e3-933c-9b68bc824695",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Application tracker dashboard"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Application tracker dashboard",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:56:27",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "859b6379-71e1-4d89-8d9d-0dd46a84f977",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Downloadable resource library"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Downloadable resource library",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:56:29",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "861c560c-bd16-475d-a7ba-1c0002f96270",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Event calendar"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Event calendar",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:56:30",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "5d0802bc-7a1c-4dfa-bd9f-aeeab8029b7e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Template library"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Template library",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:56:31",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c7feb862-8fcb-487b-8fed-df2489811a64",
+            "text": {
+              "ops": [
+                {
+                  "insert": "FAQ & help center"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "FAQ & help center",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-platform"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:56:33",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "bc1ab99d-fa53-4a21-8454-461852ad2d87",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily AI Hype Message"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Daily AI Hype Message",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:57:08",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "493e477b-f5c5-4209-a872-43f5357544d4",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Gamified Social Clout Meter"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Gamified Social Clout Meter",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:57:15",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "fa913d76-194d-456e-8a9f-996a7928b690",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-Powered Learning Platforms"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-Powered Learning Platforms",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:57:44",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "262ab6a2-2ed9-4b87-a663-297d08253bd2",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Adaptive Learning Engines"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Adaptive Learning Engines",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:57:47",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "57337411-8632-48c5-a524-a425808497d0",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-Driven Skills Assessments"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-Driven Skills Assessments",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:57:53",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "51ef3771-5078-4480-9384-590d84f58b5a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-Powered Accessibility Features"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-Powered Accessibility Features",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:57:56",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1a912b2d-e68d-446e-9f7a-f8b1ebce1caf",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-Driven Peer Squad Formation"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-Driven Peer Squad Formation",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:58:02",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "04ed6dab-9036-473d-9332-62381f89dd9c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-Powered Privacy Management"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-Powered Privacy Management",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:58:05",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "99f46116-1abf-4e6d-b995-a355583d221f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-Powered Monitoring & Evaluation"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-Powered Monitoring & Evaluation",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:58:09",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "2e971518-7b45-43ce-8719-f03c9479e336",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Game-Based Assessments"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Game-Based Assessments",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:58:18",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "535773b2-7b95-4e35-8c9e-cef11b8e340c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Learn-to-Earn Rewards Marketplace"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Learn-to-Earn Rewards Marketplace",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:58:28",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "aab52e6e-ff75-445b-8efd-aa7340b23b64",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Video Elevator Pitch Submission"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Video Elevator Pitch Submission",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:58:49",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "0f984905-344d-4dc9-88ff-56dc73922645",
+            "text": {
+              "ops": [
+                {
+                  "insert": "AI-Powered Flash Mentoring"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "AI-Powered Flash Mentoring",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:58:57",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "44a62079-d62f-4b23-a03c-13cf4f8e1cda",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Alumni & Industry Networks"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Alumni & Industry Networks",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:59:05",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "acca1c60-e35a-400f-b73b-f0761099b3f4",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Gamified Recommendations"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@title": "Gamified Recommendations",
+              "@category": {
+                "type": "Select",
+                "optionId": "cat-engagement"
+              },
+              "@vote": {
+                "type": "Select",
+                "optionId": "vote-yes"
+              },
+              "@timestamp": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2025-11-25",
+                  "time": "16:59:08",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@userName": "irfan"
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@cat01": {
+            "id": "/attributes/@cat01",
+            "fieldPath": "/attributes/@cat01",
+            "rank": "z"
+          },
+          "/attributes/@desc1": {
+            "id": "/attributes/@desc1",
+            "fieldPath": "/attributes/@desc1",
+            "rank": "zV"
+          },
+          "/attributes/@why01": {
+            "id": "/attributes/@why01",
+            "fieldPath": "/attributes/@why01",
+            "rank": "zk"
+          },
+          "/attributes/@stat1": {
+            "id": "/attributes/@stat1",
+            "fieldPath": "/attributes/@stat1",
+            "rank": "zs"
+          },
+          "143407cd-3a50-46d1-b862-2c9d233e93b0": {
+            "id": "143407cd-3a50-46d1-b862-2c9d233e93b0",
+            "fieldPath": "/attributes/@title",
+            "rank": "zw"
+          },
+          "28a8dcc4-3748-4a86-9e31-6ffe6aa45817": {
+            "id": "28a8dcc4-3748-4a86-9e31-6ffe6aa45817",
+            "fieldPath": "/attributes/@category",
+            "rank": "zy"
+          },
+          "4e9c94a0-c44c-4473-b86d-0a7ef56c0260": {
+            "id": "4e9c94a0-c44c-4473-b86d-0a7ef56c0260",
+            "fieldPath": "/attributes/@vote",
+            "rank": "zz"
+          },
+          "e0a2148d-0b6b-4144-8fb7-4513fc55b78c": {
+            "id": "e0a2148d-0b6b-4144-8fb7-4513fc55b78c",
+            "fieldPath": "/attributes/@timestamp",
+            "rank": "zzV"
+          },
+          "4e1bb6be-11b2-4e96-be8f-d42083624729": {
+            "id": "4e1bb6be-11b2-4e96-be8f-d42083624729",
+            "fieldPath": "/attributes/@userName",
+            "rank": "zzk"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@cat01": {
+            "id": "/attributes/@cat01",
+            "fieldPath": "/attributes/@cat01",
+            "rank": "z"
+          },
+          "/attributes/@desc1": {
+            "id": "/attributes/@desc1",
+            "fieldPath": "/attributes/@desc1",
+            "rank": "zV"
+          },
+          "/attributes/@why01": {
+            "id": "/attributes/@why01",
+            "fieldPath": "/attributes/@why01",
+            "rank": "zk"
+          },
+          "/attributes/@stat1": {
+            "id": "/attributes/@stat1",
+            "fieldPath": "/attributes/@stat1",
+            "rank": "zs"
+          },
+          "41854473-5248-455c-af8b-f219b433e0c3": {
+            "id": "41854473-5248-455c-af8b-f219b433e0c3",
+            "fieldPath": "/attributes/@title",
+            "rank": "zw"
+          },
+          "2de179fe-1c11-4c70-9168-2ea77751037d": {
+            "id": "2de179fe-1c11-4c70-9168-2ea77751037d",
+            "fieldPath": "/attributes/@category",
+            "rank": "zy"
+          },
+          "aa7e1808-2d6f-40b8-a32a-4454c4d359e7": {
+            "id": "aa7e1808-2d6f-40b8-a32a-4454c4d359e7",
+            "fieldPath": "/attributes/@vote",
+            "rank": "zz"
+          },
+          "84606ead-d54d-4f0e-8f78-f2c7bd1447d9": {
+            "id": "84606ead-d54d-4f0e-8f78-f2c7bd1447d9",
+            "fieldPath": "/attributes/@timestamp",
+            "rank": "zzV"
+          },
+          "200ccec1-3195-486e-a0f1-962b38671ca5": {
+            "id": "200ccec1-3195-486e-a0f1-962b38671ca5",
+            "fieldPath": "/attributes/@userName",
+            "rank": "zzk"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "D",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@cat01": {
+            "id": "/attributes/@cat01",
+            "fieldPath": "/attributes/@cat01",
+            "rank": "z"
+          },
+          "/attributes/@desc1": {
+            "id": "/attributes/@desc1",
+            "fieldPath": "/attributes/@desc1",
+            "rank": "zV"
+          },
+          "/attributes/@why01": {
+            "id": "/attributes/@why01",
+            "fieldPath": "/attributes/@why01",
+            "rank": "zk"
+          },
+          "/attributes/@stat1": {
+            "id": "/attributes/@stat1",
+            "fieldPath": "/attributes/@stat1",
+            "rank": "zs"
+          },
+          "d0476d20-f2d6-4a93-a799-093af22a7849": {
+            "id": "d0476d20-f2d6-4a93-a799-093af22a7849",
+            "fieldPath": "/attributes/@title",
+            "rank": "zw"
+          },
+          "b188a327-2ae2-494c-8e7f-0b79858b7684": {
+            "id": "b188a327-2ae2-494c-8e7f-0b79858b7684",
+            "fieldPath": "/attributes/@category",
+            "rank": "zy"
+          },
+          "7378cdd2-3879-4016-a6f3-849663727cb5": {
+            "id": "7378cdd2-3879-4016-a6f3-849663727cb5",
+            "fieldPath": "/attributes/@vote",
+            "rank": "zz"
+          },
+          "1a505269-6102-410b-9a2b-4537f1f57adb": {
+            "id": "1a505269-6102-410b-9a2b-4537f1f57adb",
+            "fieldPath": "/attributes/@timestamp",
+            "rank": "zzV"
+          },
+          "c240a779-800c-4589-901f-49feba03e1ff": {
+            "id": "c240a779-800c-4589-901f-49feba03e1ff",
+            "fieldPath": "/attributes/@userName",
+            "rank": "zzk"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "E",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@cat01": {
+            "id": "/attributes/@cat01",
+            "fieldPath": "/attributes/@cat01",
+            "rank": "z"
+          },
+          "/attributes/@desc1": {
+            "id": "/attributes/@desc1",
+            "fieldPath": "/attributes/@desc1",
+            "rank": "zV"
+          },
+          "/attributes/@why01": {
+            "id": "/attributes/@why01",
+            "fieldPath": "/attributes/@why01",
+            "rank": "zk"
+          },
+          "/attributes/@stat1": {
+            "id": "/attributes/@stat1",
+            "fieldPath": "/attributes/@stat1",
+            "rank": "zs"
+          },
+          "30059b4e-ba44-4d0d-9a6a-b394224618f1": {
+            "id": "30059b4e-ba44-4d0d-9a6a-b394224618f1",
+            "fieldPath": "/attributes/@title",
+            "rank": "zw"
+          },
+          "f1be6e96-6b8a-4bb3-b59e-cbacc82ca0e9": {
+            "id": "f1be6e96-6b8a-4bb3-b59e-cbacc82ca0e9",
+            "fieldPath": "/attributes/@category",
+            "rank": "zy"
+          },
+          "e710882b-5131-47cc-883b-380404f0db23": {
+            "id": "e710882b-5131-47cc-883b-380404f0db23",
+            "fieldPath": "/attributes/@vote",
+            "rank": "zz"
+          },
+          "a843a46c-bb32-4973-a118-2dda9099b031": {
+            "id": "a843a46c-bb32-4973-a118-2dda9099b031",
+            "fieldPath": "/attributes/@timestamp",
+            "rank": "zzV"
+          },
+          "b01530fe-1a8c-4f3f-b23a-36898ad2f206": {
+            "id": "b01530fe-1a8c-4f3f-b23a-36898ad2f206",
+            "fieldPath": "/attributes/@userName",
+            "rank": "zzk"
+          }
+        }
+      },
+      "gantt": {
+        "id": "gantt",
+        "type": "gantt",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@cat01": {
+            "id": "/attributes/@cat01",
+            "fieldPath": "/attributes/@cat01",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@desc1": {
+            "id": "/attributes/@desc1",
+            "fieldPath": "/attributes/@desc1",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@why01": {
+            "id": "/attributes/@why01",
+            "fieldPath": "/attributes/@why01",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@stat1": {
+            "id": "/attributes/@stat1",
+            "fieldPath": "/attributes/@stat1",
+            "rank": "zs",
+            "hidden": false
+          },
+          "aff45c92-06a2-4473-a38d-2adc24b7e4e1": {
+            "id": "aff45c92-06a2-4473-a38d-2adc24b7e4e1",
+            "fieldPath": "/attributes/@title",
+            "rank": "zw"
+          },
+          "be0e8adc-00d7-462e-955e-17d5cc6b53c1": {
+            "id": "be0e8adc-00d7-462e-955e-17d5cc6b53c1",
+            "fieldPath": "/attributes/@category",
+            "rank": "zy"
+          },
+          "06f6cdec-2ad4-4e1c-99a5-61bef0ef12a1": {
+            "id": "06f6cdec-2ad4-4e1c-99a5-61bef0ef12a1",
+            "fieldPath": "/attributes/@vote",
+            "rank": "zz"
+          },
+          "7c82d53e-5b6c-4b71-ba62-f39f4777e697": {
+            "id": "7c82d53e-5b6c-4b71-ba62-f39f4777e697",
+            "fieldPath": "/attributes/@timestamp",
+            "rank": "zzV"
+          },
+          "0a5dc312-d0be-467d-afc6-4b3857f03e88": {
+            "id": "0a5dc312-d0be-467d-afc6-4b3857f03e88",
+            "fieldPath": "/attributes/@userName",
+            "rank": "zzk"
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "V",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@cat01": {
+            "id": "/attributes/@cat01",
+            "fieldPath": "/attributes/@cat01",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@desc1": {
+            "id": "/attributes/@desc1",
+            "fieldPath": "/attributes/@desc1",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@why01": {
+            "id": "/attributes/@why01",
+            "fieldPath": "/attributes/@why01",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@stat1": {
+            "id": "/attributes/@stat1",
+            "fieldPath": "/attributes/@stat1",
+            "rank": "zs",
+            "hidden": false
+          },
+          "7e97278a-1c61-4b19-aa45-c5bec97f1d02": {
+            "id": "7e97278a-1c61-4b19-aa45-c5bec97f1d02",
+            "fieldPath": "/attributes/@title",
+            "rank": "zw"
+          },
+          "68ad3988-5fda-4287-9c14-94a41e1ae1fa": {
+            "id": "68ad3988-5fda-4287-9c14-94a41e1ae1fa",
+            "fieldPath": "/attributes/@category",
+            "rank": "zy"
+          },
+          "04a25fb3-d8c7-4c95-89f1-528fd4c13c91": {
+            "id": "04a25fb3-d8c7-4c95-89f1-528fd4c13c91",
+            "fieldPath": "/attributes/@vote",
+            "rank": "zz"
+          },
+          "5c93d0fd-9e28-4ab9-98a5-fefc86a67d87": {
+            "id": "5c93d0fd-9e28-4ab9-98a5-fefc86a67d87",
+            "fieldPath": "/attributes/@timestamp",
+            "rank": "zzV"
+          },
+          "8a14d684-36ce-4233-9133-cce5d51db6aa": {
+            "id": "8a14d684-36ce-4233-9133-cce5d51db6aa",
+            "fieldPath": "/attributes/@userName",
+            "rank": "zzk"
+          }
+        }
+      },
+      "actionsheet": {
+        "id": "actionsheet",
+        "type": "actionsheet",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "74b3aa72-6ee6-407b-9c49-a8271186b489": {
+            "id": "74b3aa72-6ee6-407b-9c49-a8271186b489",
+            "fieldPath": "/attributes/@title",
+            "rank": "z"
+          },
+          "d8965340-4a32-486c-9c7e-be02296a2954": {
+            "id": "d8965340-4a32-486c-9c7e-be02296a2954",
+            "fieldPath": "/attributes/@category",
+            "rank": "zV"
+          },
+          "bb67e2ac-9561-4a07-b9ca-dc22304ef2b5": {
+            "id": "bb67e2ac-9561-4a07-b9ca-dc22304ef2b5",
+            "fieldPath": "/attributes/@vote",
+            "rank": "zk"
+          },
+          "d87fb78b-fd55-4269-ad64-c65ead7e605e": {
+            "id": "d87fb78b-fd55-4269-ad64-c65ead7e605e",
+            "fieldPath": "/attributes/@timestamp",
+            "rank": "zs"
+          },
+          "0cac34ce-687d-4360-b897-7c3a1f86e006": {
+            "id": "0cac34ce-687d-4360-b897-7c3a1f86e006",
+            "fieldPath": "/attributes/@userName",
+            "rank": "zw"
+          }
+        }
+      }
+    },
+    "fields": {
+      "@title": {
+        "type": "string",
+        "displayName": "Feature Title"
+      },
+      "@category": {
+        "type": "Select",
+        "displayName": "Category",
+        "options": {
+          "cat-ai": {
+            "id": "cat-ai",
+            "name": "AI Features",
+            "color": "#00FFFF",
+            "rank": "0"
+          },
+          "cat-platform": {
+            "id": "cat-platform",
+            "name": "Platform Essentials",
+            "color": "#CCFF00",
+            "rank": "1"
+          },
+          "cat-engagement": {
+            "id": "cat-engagement",
+            "name": "Engagement Boosters",
+            "color": "#FF6B9D",
+            "rank": "2"
+          }
+        }
+      },
+      "@vote": {
+        "type": "Select",
+        "displayName": "Vote",
+        "options": {
+          "vote-yes": {
+            "id": "vote-yes",
+            "name": "Yes",
+            "color": "#00FF00",
+            "rank": "0"
+          },
+          "vote-no": {
+            "id": "vote-no",
+            "name": "No",
+            "color": "#FF0000",
+            "rank": "1"
+          },
+          "vote-maybe": {
+            "id": "vote-maybe",
+            "name": "Maybe",
+            "color": "#FFA500",
+            "rank": "2"
+          }
+        }
+      },
+      "@timestamp": {
+        "type": "DateTime",
+        "title": "Voted At"
+      },
+      "@userName": {
+        "type": "string",
+        "displayName": "User Name"
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "list",
+    "avatar": {
+      "type": "emoji",
+      "value": "📱"
+    }
+  }
+}

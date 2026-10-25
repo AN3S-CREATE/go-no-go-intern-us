@@ -1,0 +1,109 @@
+{
+  "version": "2",
+  "flowTitle": "AI Document Creation Flow (Copy)",
+  "trigger": {
+    "valid": false,
+    "displayName": "Task Manual Trigger",
+    "type": "PIECE_TRIGGER",
+    "settings": {
+      "pieceName": "@taskade/automade-internalpiece-taskade",
+      "pieceVersion": "BLANK",
+      "triggerName": "task.flow_triggered",
+      "input": {}
+    }
+  },
+  "actions": [
+    {
+      "name": "467bb352-af96-45f0-a148-a3de2df8dc3e",
+      "valid": false,
+      "displayName": "Create Document",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-piece-google-docs",
+        "pieceVersion": "BLANK",
+        "actionName": "googledocs.createDocument",
+        "input": {
+          "body": "{{ trigger['nodeText'] }}",
+          "title": "{{ trigger['projectId'] }} - {{ trigger['nodeId'] }}"
+        }
+      }
+    },
+    {
+      "name": "68543f8e-3c3a-454f-8bb4-99487af6fa61",
+      "valid": false,
+      "displayName": "Run Agent Command",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-openai",
+        "pieceVersion": "BLANK",
+        "actionName": "agent.run_command",
+        "input": {
+          "input": "",
+          "agentId": {
+            "type": "flow-template-variable-input-type",
+            "id": "01KATTN6W2XAHCFTYQ22Y2N4ZP"
+          }
+        }
+      }
+    },
+    {
+      "name": "a3a70373-d103-4326-aa37-93bba7b14dd8",
+      "valid": false,
+      "displayName": "Run Agent Command",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-openai",
+        "pieceVersion": "BLANK",
+        "actionName": "agent.run_command",
+        "input": {
+          "agentId": {
+            "type": "flow-template-variable-input-type",
+            "id": "01KATTN6W2XAHCFTYQ22Y2N4ZP"
+          }
+        }
+      }
+    },
+    {
+      "name": "b6bb39db-c026-4c80-b94c-89f5d338ac79",
+      "valid": false,
+      "displayName": "Run Agent Command",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-openai",
+        "pieceVersion": "BLANK",
+        "actionName": "agent.run_command",
+        "input": {
+          "agentId": {
+            "type": "flow-template-variable-input-type",
+            "id": "01KATTN6W2XAHCFTYQ22Y2N4ZP"
+          }
+        }
+      }
+    },
+    {
+      "name": "8309e966-dafb-4ae1-a1c7-c2aa43f9fcd7",
+      "valid": false,
+      "displayName": "Run Agent Command",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-openai",
+        "pieceVersion": "BLANK",
+        "actionName": "agent.run_command",
+        "input": {
+          "agentId": {
+            "type": "flow-template-variable-input-type",
+            "id": "01KATTN6W2XAHCFTYQ22Y2N4ZP"
+          }
+        }
+      }
+    }
+  ],
+  "variables": {
+    "01KATTN6W2XAHCFTYQ22Y2N4ZP": {
+      "id": "01KATTN6W2XAHCFTYQ22Y2N4ZP",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-space-agent-id"
+    }
+  }
+}

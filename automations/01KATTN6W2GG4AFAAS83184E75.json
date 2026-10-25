@@ -1,0 +1,61 @@
+{
+  "version": "2",
+  "flowTitle": "Swipe Capture Logger",
+  "trigger": {
+    "valid": true,
+    "displayName": "Swipe Event",
+    "type": "MANUAL",
+    "settings": {
+      "inputUiInfo": {},
+      "paramsSchema": {
+        "type": "object",
+        "properties": {
+          "user": {
+            "type": "string",
+            "description": "Input for user"
+          },
+          "notes": {
+            "type": "string",
+            "description": "Input for notes"
+          },
+          "innovationCard": {
+            "type": "string",
+            "description": "Input for innovationCard"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "actions": [
+    {
+      "name": "f1a2b3c4-d5e6-7890-abcd-ef1234567894",
+      "valid": false,
+      "displayName": "Log swipe decision",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "BLANK",
+        "actionName": "task.create",
+        "input": {
+          "fields": "",
+          "content": "{{ trigger[\"innovationCard\"] }}",
+          "dueDate": "",
+          "position": "beforeend",
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "yU6YnSwNGefJYKr9"
+          }
+        }
+      }
+    }
+  ],
+  "variables": {
+    "yU6YnSwNGefJYKr9": {
+      "id": "yU6YnSwNGefJYKr9",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    }
+  }
+}

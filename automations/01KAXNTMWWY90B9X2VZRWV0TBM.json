@@ -1,0 +1,98 @@
+{
+  "version": "2",
+  "flowTitle": "Intern Us Vote Capture",
+  "trigger": {
+    "valid": true,
+    "type": "WEBHOOK",
+    "settings": {
+      "input": {
+        "type": "object",
+        "properties": {
+          "category": {
+            "type": "string",
+            "description": "Input for category"
+          },
+          "userName": {
+            "type": "string",
+            "description": "Input for userName"
+          },
+          "voteType": {
+            "type": "string",
+            "description": "Input for voteType"
+          },
+          "featureId": {
+            "type": "string",
+            "description": "Input for featureId"
+          },
+          "timestamp": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "featureTitle": {
+            "type": "string",
+            "description": "Input for featureTitle"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "actions": [
+    {
+      "name": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "valid": false,
+      "displayName": "Save Vote to Database",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "1.0.0",
+        "actionName": "task.create",
+        "input": {
+          "fields": {
+            "@vote": {
+              "data": {
+                "value": "{{ trigger[\"body\"][\"voteType\"] }}"
+              },
+              "rank": "0",
+              "fieldId": "@vote"
+            },
+            "@title": {
+              "data": {
+                "value": "{{ trigger[\"body\"][\"featureTitle\"] }}"
+              },
+              "rank": "1",
+              "fieldId": "@title"
+            },
+            "@category": {
+              "data": {
+                "value": "{{ trigger[\"body\"][\"category\"] }}"
+              },
+              "rank": "2",
+              "fieldId": "@category"
+            },
+            "@timestamp": {
+              "data": {
+                "value": "{{ trigger[\"body\"][\"timestamp\"] }}"
+              },
+              "rank": "3",
+              "fieldId": "@timestamp"
+            }
+          },
+          "content": "{{ trigger[\"body\"][\"featureTitle\"] }}",
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "WGtW77Vk9smeBUvE"
+          }
+        }
+      }
+    }
+  ],
+  "variables": {
+    "WGtW77Vk9smeBUvE": {
+      "id": "WGtW77Vk9smeBUvE",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    }
+  }
+}

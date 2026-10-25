@@ -1,0 +1,80 @@
+{
+  "version": "2",
+  "flowTitle": "Export Voting Data to Google Docs",
+  "trigger": {
+    "valid": false,
+    "displayName": "When New Vote Added",
+    "type": "PIECE_TRIGGER",
+    "settings": {
+      "pieceName": "@taskade/automade-internalpiece-taskade",
+      "pieceVersion": "1.0.0",
+      "triggerName": "task.added",
+      "input": {
+        "projectId": {
+          "type": "flow-template-variable-input-type",
+          "id": "WGtW77Vk9smeBUvE"
+        }
+      }
+    }
+  },
+  "actions": [
+    {
+      "name": "a1b2c3d4-1111-2222-3333-444444444444",
+      "valid": false,
+      "displayName": "Find All Votes in Project",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "1.0.0",
+        "actionName": "tasks.find",
+        "input": {
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "WGtW77Vk9smeBUvE"
+          },
+          "rowsToReturn": "all_matching_rows",
+          "noTasksFoundBehavior": "continue"
+        }
+      }
+    },
+    {
+      "name": "b1c2d3e4-2222-3333-4444-555555555555",
+      "valid": true,
+      "displayName": "Format Data for Google Doc",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-openai",
+        "pieceVersion": "1.0.0",
+        "actionName": "ai.generate",
+        "input": {
+          "input": "All Voting Data:\n{{ a1b2c3d4-1111-2222-3333-444444444444 }}\n\nFormat this into a comprehensive document with:\n1. Executive Summary (total votes, breakdown by category)\n2. Approved Features (Yes votes) - grouped by category\n3. Rejected Features (No votes)\n4. Under Consideration (Maybe votes)\n5. Statistics and insights",
+          "prompt": "Format the voting data into a professional Google Docs document structure with sections for: Executive Summary, Yes Votes (grouped by category), No Votes, Maybe Votes, and Statistics. Use proper markdown formatting with headers, bullet points, and tables."
+        }
+      }
+    },
+    {
+      "name": "c1d2e3f4-3333-4444-5555-666666666666",
+      "valid": false,
+      "displayName": "Create/Update Google Doc",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-piece-google-docs",
+        "pieceVersion": "1.0.0",
+        "actionName": "googledocs.createDocument",
+        "input": {
+          "body": "{{ b1c2d3e4-2222-3333-4444-555555555555[\"result\"] }}",
+          "title": "Intern Us Innovation Votes - Export {{ trigger[\"triggerTime\"] }}",
+          "bodyText": "{{ b1c2d3e4-2222-3333-4444-555555555555[\"result\"] }}"
+        }
+      }
+    }
+  ],
+  "variables": {
+    "WGtW77Vk9smeBUvE": {
+      "id": "WGtW77Vk9smeBUvE",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    }
+  }
+}

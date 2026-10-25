@@ -1,0 +1,66 @@
+{
+  "version": "2",
+  "flowTitle": "Research Task Completion Analyzer",
+  "trigger": {
+    "valid": false,
+    "displayName": "When Generate Analysis Field Updated",
+    "type": "PIECE_TRIGGER",
+    "settings": {
+      "pieceName": "@taskade/automade-internalpiece-taskade",
+      "pieceVersion": "BLANK",
+      "triggerName": "task.custom_attribute_updated",
+      "input": {
+        "fieldId": "@trig1",
+        "projectId": {
+          "type": "flow-template-variable-input-type",
+          "id": "yU6YnSwNGefJYKr9"
+        }
+      }
+    }
+  },
+  "actions": [
+    {
+      "name": "7f8a9b0c-1d2e-3f4a-5b6c-7d8e9f0a1b2c",
+      "valid": true,
+      "displayName": "Generate Complete Analysis",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-openai",
+        "pieceVersion": "BLANK",
+        "actionName": "ai.generate",
+        "input": {
+          "input": "System: {{ trigger[\"nodeText\"] }}\n\nProvide:\n1. Executive Summary (2-3 sentences)\n2. Key Insights for South African context\n3. Implementation recommendations\n4. Cost-benefit highlights\n5. Next steps\n\nFormat as clear bullet points for presentation.",
+          "prompt": "You are a security systems research analyst. Generate a comprehensive presentation-ready analysis."
+        }
+      }
+    },
+    {
+      "name": "8a9b0c1d-2e3f-4a5b-6c7d-8e9f0a1b2c3d",
+      "valid": false,
+      "displayName": "Create Analysis Task",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "BLANK",
+        "actionName": "task.create",
+        "input": {
+          "blockId": "{{ trigger[\"nodeId\"] }}",
+          "content": "📊 AI Analysis:\n\n{{ 7f8a9b0c-1d2e-3f4a-5b6c-7d8e9f0a1b2c[\"result\"] }}",
+          "position": "beforeend",
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "yU6YnSwNGefJYKr9"
+          }
+        }
+      }
+    }
+  ],
+  "variables": {
+    "yU6YnSwNGefJYKr9": {
+      "id": "yU6YnSwNGefJYKr9",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    }
+  }
+}

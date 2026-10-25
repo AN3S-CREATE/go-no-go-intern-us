@@ -1,0 +1,58 @@
+{
+  "version": "2",
+  "flowTitle": "Complex Security Systems Research - South Africa Task Custom Field Updated",
+  "trigger": {
+    "valid": false,
+    "displayName": "Task Custom Field Updated",
+    "type": "PIECE_TRIGGER",
+    "settings": {
+      "pieceName": "@taskade/automade-internalpiece-taskade",
+      "pieceVersion": "BLANK",
+      "triggerName": "task.custom_attribute_updated",
+      "input": {
+        "fieldId": "@trig1",
+        "projectId": {
+          "type": "flow-template-variable-input-type",
+          "id": "yU6YnSwNGefJYKr9"
+        }
+      }
+    }
+  },
+  "actions": [
+    {
+      "name": "f7fcaedf-8231-4a98-9dc1-5ac94442ee1d",
+      "valid": false,
+      "displayName": "Update Custom Fields",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "BLANK",
+        "actionName": "updateCustomFields",
+        "input": {
+          "fields": {
+            "@trig1": {
+              "data": {
+                "value": "opt-yes"
+              },
+              "rank": "V",
+              "fieldId": "@trig1"
+            }
+          },
+          "nodeId": "{{ trigger['pd17wJxuUmq9FDud/fields/@trig1'] }}",
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "yU6YnSwNGefJYKr9"
+          }
+        }
+      }
+    }
+  ],
+  "variables": {
+    "yU6YnSwNGefJYKr9": {
+      "id": "yU6YnSwNGefJYKr9",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    }
+  }
+}

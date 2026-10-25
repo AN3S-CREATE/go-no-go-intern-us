@@ -1,0 +1,70 @@
+{
+  "version": "2",
+  "flowTitle": "AI Assistant Chat Handler",
+  "trigger": {
+    "valid": true,
+    "type": "WEBHOOK",
+    "settings": {
+      "input": {
+        "type": "object",
+        "properties": {
+          "context": {
+            "type": "string",
+            "description": "Input for context"
+          },
+          "question": {
+            "type": "string",
+            "description": "Input for question"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "actions": [
+    {
+      "name": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+      "valid": false,
+      "displayName": "Ask Innovation Assistant",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-openai",
+        "pieceVersion": "BLANK",
+        "actionName": "agent.ask",
+        "input": {
+          "input": "Question: {{ trigger[\"body\"][\"question\"] }}\n\nInnovation Context: {{ trigger[\"body\"][\"context\"] }}",
+          "agentId": {
+            "type": "flow-template-variable-input-type",
+            "id": "01KATTN6W2X7KX3D0YXXW99AH6"
+          },
+          "outputType": "plaintext"
+        }
+      }
+    }
+  ],
+  "outputs": [
+    {
+      "type": "http_response",
+      "body": {
+        "type": "json",
+        "data": {
+          "type": "basic",
+          "payload": [
+            {
+              "response": "{{ a1b2c3d4-e5f6-7890-1234-567890abcdef[\"result\"] }}"
+            }
+          ]
+        }
+      },
+      "key": "trigger"
+    }
+  ],
+  "variables": {
+    "01KATTN6W2X7KX3D0YXXW99AH6": {
+      "id": "01KATTN6W2X7KX3D0YXXW99AH6",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-space-agent-id"
+    }
+  }
+}
